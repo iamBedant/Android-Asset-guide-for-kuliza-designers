@@ -1,7 +1,6 @@
 
-###  Resources files
 
-Resources file names are written in __lowercase_underscore__.
+### Please provide svg icons
 
 ####  Drawable files
 
@@ -21,7 +20,7 @@ Naming conventions for drawables:
 
 
 
-Naming conventions for icons (taken from [Android iconography guidelines](http://developer.android.com/design/style/iconography.html)):
+### Naming conventions for icons (taken from [Android iconography guidelines](http://developer.android.com/design/style/iconography.html)):
 
 
 
@@ -29,7 +28,7 @@ Naming conventions for icons (taken from [Android iconography guidelines](http:/
 | --------------------------------| ----------------   | ---------------------------- |
 | Icons                           | `ic_`              | `ic_star.png`                |
 | Launcher icons                  | `ic_launcher`      | `ic_launcher_calendar.png`   |
-| Menu icons and Action Bar icons | `ic_menu`          | `ic_menu_archive.png`        |
+| Menu icons and Toolbar icons    | `ic_menu`          | `ic_menu_archive.png`        |
 | Status bar icons                | `ic_stat_notify`   | `ic_stat_notify_msg.png`     |
 | Tab icons                       | `ic_tab`           | `ic_tab_recent.png`          |
 | Dialog icons                    | `ic_dialog`        | `ic_dialog_info.png`         |
