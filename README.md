@@ -13,7 +13,7 @@
 
 
 
-####  Drawable files (For Developers)
+####  Drawable files
 
 Naming conventions for drawables:
 
@@ -31,7 +31,7 @@ Naming conventions for drawables:
 
 
 
-### Kuliza naming conventions for icons( For Designers) (taken from [Android iconography guidelines](http://developer.android.com/design/style/iconography.html)):
+### Kuliza naming conventions for icons (taken from [Android iconography guidelines](http://developer.android.com/design/style/iconography.html)):
 
 
 
