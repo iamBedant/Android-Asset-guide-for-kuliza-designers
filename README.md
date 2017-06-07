@@ -2,7 +2,18 @@
 
 ### Please provide svg icons
 
-####  Drawable files
+
+
+* Valid charset is for naming resources is [a-z, _, 0–9] i.e. All small case characters, numbers, and underscore.
+* First letter of your asset name can be either _ or a small case character, it cannot be a number.
+* Do not use capitals letters not even in extensions like .PNG or .JPG
+* Use _ as separator wherever you want to differentiate two words because -(hyphen) and space are not allowed
+* Asset names should be unique across the screens for an app. If you have two add buttons with different dimensions then you cannot name both as add_icon.png, you may create two different icons like add_icon_small.png and add_icon_big.png with all their density variants.
+
+
+
+
+####  Drawable files (For Developers)
 
 Naming conventions for drawables:
 
@@ -20,7 +31,7 @@ Naming conventions for drawables:
 
 
 
-### Naming conventions for icons (taken from [Android iconography guidelines](http://developer.android.com/design/style/iconography.html)):
+### Kuliza naming conventions for icons( For Designers) (taken from [Android iconography guidelines](http://developer.android.com/design/style/iconography.html)):
 
 
 
