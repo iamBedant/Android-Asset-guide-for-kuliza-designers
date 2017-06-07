@@ -2,7 +2,7 @@
 
 ### Please provide svg icons
 
-
+## Rules
 
 * Valid charset is for naming resources is [a-z, _, 0–9] i.e. All small case characters, numbers, and underscore.
 * First letter of your asset name can be either _ or a small case character, it cannot be a number.
@@ -11,7 +11,7 @@
 * Asset names should be unique across the screens for an app. If you have two add buttons with different dimensions then you cannot name both as add_icon.png, you may create two different icons like add_icon_small.png and add_icon_big.png with all their density variants.
 
 
-
+## Guidelines
 
 ####  Drawable files
 
